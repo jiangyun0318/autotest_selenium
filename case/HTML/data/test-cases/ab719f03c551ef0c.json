@@ -1,0 +1,141 @@
+{
+  "uid" : "ab719f03c551ef0c",
+  "name" : "test_click_elements_002[off_clear_all-{\"page\":1,\"pageSize\":20,\"type\":0,\"cityId\":310100}]",
+  "fullName" : "test_mo_off_list.TestOofList#test_click_elements_002",
+  "historyId" : "25cc1a18543cecbe962ddf7a80de7ef9",
+  "time" : {
+    "start" : 1601194324495,
+    "stop" : 1601194324514,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1601194324494,
+      "stop" : 1601194324494,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601194280278,
+      "stop" : 1601194284277,
+      "duration" : 3999
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dfb827287144ae02",
+      "name" : "log",
+      "source" : "dfb827287144ae02.txt",
+      "type" : "text/plain",
+      "size" : 100
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1601194324516,
+      "stop" : 1601194324516,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601194327666,
+      "stop" : 1601194327797,
+      "duration" : 131
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "点击查询条件"
+  }, {
+    "name" : "feature",
+    "value" : "办公室列表页"
+  }, {
+    "name" : "suite",
+    "value" : "test_mo_off_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestOofList"
+  }, {
+    "name" : "host",
+    "value" : "jiangyundeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mo_off_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "api_data",
+    "value" : "'{\"page\":1,\"pageSize\":20,\"type\":0,\"cityId\":310100}'"
+  }, {
+    "name" : "key",
+    "value" : "'off_clear_all'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab719f03c551ef0c.json",
+  "parameterValues" : [ "'{\"page\":1,\"pageSize\":20,\"type\":0,\"cityId\":310100}'", "'off_clear_all'" ]
+}

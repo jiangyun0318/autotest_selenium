@@ -1,0 +1,3 @@
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://header[contains(@class,'fadeInDown')]/preceding-sibling::header//div[contains(text(),'更多服务')]
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://header[contains(@class,'fadeInDown')]/preceding-sibling::header//a[contains(text(),'买商办')]
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://div[2]/div/div[2]/div/div/div[1]/div/div/div/div[1]/div/img

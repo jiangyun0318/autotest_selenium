@@ -1,0 +1,141 @@
+{
+  "uid" : "3f6706adf5f13da7",
+  "name" : "test_click_elements_002[off_nump_click-{\"page\":1,\"pageSize\":20,\"numBerMax\":15,\"numBerMin\":8,\"type\":0,\"cityId\":310100}]",
+  "fullName" : "test_mo_off_list.TestOofList#test_click_elements_002",
+  "historyId" : "2343e44da2ad0286f35aac1bf853f08f",
+  "time" : {
+    "start" : 1601194306138,
+    "stop" : 1601194308367,
+    "duration" : 2229
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1601194306137,
+      "stop" : 1601194306137,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601194280278,
+      "stop" : 1601194284277,
+      "duration" : 3999
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f30456898c281016",
+      "name" : "log",
+      "source" : "f30456898c281016.txt",
+      "type" : "text/plain",
+      "size" : 379
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1601194308368,
+      "stop" : 1601194308368,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601194327666,
+      "stop" : 1601194327797,
+      "duration" : 131
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "点击查询条件"
+  }, {
+    "name" : "feature",
+    "value" : "办公室列表页"
+  }, {
+    "name" : "suite",
+    "value" : "test_mo_off_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestOofList"
+  }, {
+    "name" : "host",
+    "value" : "jiangyundeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mo_off_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "api_data",
+    "value" : "'{\"page\":1,\"pageSize\":20,\"numBerMax\":15,\"numBerMin\":8,\"type\":0,\"cityId\":310100}'"
+  }, {
+    "name" : "key",
+    "value" : "'off_nump_click'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f6706adf5f13da7.json",
+  "parameterValues" : [ "'{\"page\":1,\"pageSize\":20,\"numBerMax\":15,\"numBerMin\":8,\"type\":0,\"cityId\":310100}'", "'off_nump_click'" ]
+}

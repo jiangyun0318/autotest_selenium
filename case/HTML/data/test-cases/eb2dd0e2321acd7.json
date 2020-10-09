@@ -1,0 +1,141 @@
+{
+  "uid" : "eb2dd0e2321acd7",
+  "name" : "test_click_elements_002[join_nump_click-{\"page\":1,\"pageSize\":20,\"numBerMax\":15,\"numBerMin\":8,\"type\":0,\"featureIds\":[],\"cityId\":310100}]",
+  "fullName" : "test_mo_join_list.TestJoinList#test_click_elements_002[join_nump_click-{\"page\":1,\"pageSize\":20,\"numBerMax\":15,\"numBerMin\":8,\"type\":0,\"featureIds\":",
+  "historyId" : "328b1d1a79545264765497a81c445281",
+  "time" : {
+    "start" : 1601194261604,
+    "stop" : 1601194263937,
+    "duration" : 2333
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601194239125,
+      "stop" : 1601194242968,
+      "duration" : 3843
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1601194261602,
+      "stop" : 1601194261603,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a3342e4735fa42aa",
+      "name" : "log",
+      "source" : "a3342e4735fa42aa.txt",
+      "type" : "text/plain",
+      "size" : 379
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601194280155,
+      "stop" : 1601194280275,
+      "duration" : 120
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1601194263938,
+      "stop" : 1601194263938,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "点击查询条件"
+  }, {
+    "name" : "feature",
+    "value" : "联合办公列表页"
+  }, {
+    "name" : "suite",
+    "value" : "test_mo_join_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestJoinList"
+  }, {
+    "name" : "host",
+    "value" : "jiangyundeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mo_join_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "api_data",
+    "value" : "'{\"page\":1,\"pageSize\":20,\"numBerMax\":15,\"numBerMin\":8,\"type\":0,\"featureIds\":[],\"cityId\":310100}'"
+  }, {
+    "name" : "key",
+    "value" : "'join_nump_click'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb2dd0e2321acd7.json",
+  "parameterValues" : [ "'{\"page\":1,\"pageSize\":20,\"numBerMax\":15,\"numBerMin\":8,\"type\":0,\"featureIds\":[],\"cityId\":310100}'", "'join_nump_click'" ]
+}

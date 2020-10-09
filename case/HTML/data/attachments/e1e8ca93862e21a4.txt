@@ -1,0 +1,2 @@
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[4]/div[2]/div[1]/a[1]/img
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]/div/div[7]/div

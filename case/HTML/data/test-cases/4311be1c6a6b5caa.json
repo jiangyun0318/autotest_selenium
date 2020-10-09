@@ -1,0 +1,150 @@
+{
+  "uid" : "4311be1c6a6b5caa",
+  "name" : "test_click_elements_002[pro_subwaystationid_click-{\"page\":1,\"pageSize\":20,\"metroId\":68,\"subwayId\":840,\"type\":0,\"cityId\":310100}]",
+  "fullName" : "test_mo_pro_list.TestProList#test_click_elements_002",
+  "historyId" : "23c82268c3bac068dd1d192992820866",
+  "time" : {
+    "start" : 1601194343393,
+    "stop" : 1601194346187,
+    "duration" : 2794
+  },
+  "description" : "{\"page\":1,\"pageSize\":20,\"metroId\":68,\"subwayId\":840,\"type\":0,\"cityId\":310100}",
+  "descriptionHtml" : "<p>{&quot;page&quot;:1,&quot;pageSize&quot;:20,&quot;metroId&quot;:68,&quot;subwayId&quot;:840,&quot;type&quot;:0,&quot;cityId&quot;:310100}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1601194343392,
+      "stop" : 1601194343393,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601194327800,
+      "stop" : 1601194332426,
+      "duration" : 4626
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "{\"page\":1,\"pageSize\":20,\"metroId\":68,\"subwayId\":840,\"type\":0,\"cityId\":310100}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "46af783ad246a3a7",
+      "name" : "运行截图",
+      "source" : "46af783ad246a3a7.png",
+      "type" : "image/png",
+      "size" : 423690
+    }, {
+      "uid" : "bd5f6e90f4ae975d",
+      "name" : "log",
+      "source" : "bd5f6e90f4ae975d.txt",
+      "type" : "text/plain",
+      "size" : 382
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1601194346188,
+      "stop" : 1601194346188,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601194383220,
+      "stop" : 1601194383327,
+      "duration" : 107
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "点击查询条件"
+  }, {
+    "name" : "feature",
+    "value" : "写字楼列表页"
+  }, {
+    "name" : "suite",
+    "value" : "test_mo_pro_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProList"
+  }, {
+    "name" : "host",
+    "value" : "jiangyundeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mo_pro_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "api_data",
+    "value" : "'{\"page\":1,\"pageSize\":20,\"metroId\":68,\"subwayId\":840,\"type\":0,\"cityId\":310100}'"
+  }, {
+    "name" : "key",
+    "value" : "'pro_subwaystationid_click'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4311be1c6a6b5caa.json",
+  "parameterValues" : [ "'{\"page\":1,\"pageSize\":20,\"metroId\":68,\"subwayId\":840,\"type\":0,\"cityId\":310100}'", "'pro_subwaystationid_click'" ]
+}

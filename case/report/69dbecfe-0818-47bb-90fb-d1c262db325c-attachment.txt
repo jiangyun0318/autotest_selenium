@@ -1,0 +1,6 @@
+[32mINFO    [0m log.user_log:mo_retaine_handle.py:25 输入用户需求为：徐家汇，160平，精装修，靠近地铁
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://div[3]//textarea
+[32mINFO    [0m log.user_log:mo_retaine_handle.py:20 输入的手机号为：15688888888
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://*[@id="app"]/div[2]/div/div[2]/div[2]/div/div/div[3]/div[3]/input
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://button[contains(text(), '立即委托')]
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://button[contains(text(), '立即委托')]

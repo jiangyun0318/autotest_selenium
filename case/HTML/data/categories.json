@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 48 == 0\n +  where 48 = int('48')\n +  and   0 = int(0)",
+      "children" : [ {
+        "name" : "test_click_elements_002[off_feature_click-{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}]",
+        "uid" : "bd4677e803fe480b",
+        "parentUid" : "d39a03bd7fe58ff4d987f9e30360a020",
+        "status" : "failed",
+        "time" : {
+          "start" : 1601194320143,
+          "stop" : 1601194322363,
+          "duration" : 2220
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}'", "'off_feature_click'" ]
+      } ],
+      "uid" : "d39a03bd7fe58ff4d987f9e30360a020"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

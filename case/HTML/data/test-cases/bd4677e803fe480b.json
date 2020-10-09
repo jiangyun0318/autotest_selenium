@@ -1,0 +1,149 @@
+{
+  "uid" : "bd4677e803fe480b",
+  "name" : "test_click_elements_002[off_feature_click-{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}]",
+  "fullName" : "test_mo_off_list.TestOofList#test_click_elements_002[off_feature_click-{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":",
+  "historyId" : "9a6f34501dfa3cf27a72d1955d748a8c",
+  "time" : {
+    "start" : 1601194320143,
+    "stop" : 1601194322363,
+    "duration" : 2220
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 48 == 0\n +  where 48 = int('48')\n +  and   0 = int(0)",
+  "statusTrace" : "self = <case.test_mo_off_list.TestOofList object at 0x10b7ba990>, key = 'off_feature_click'\napi_data = '{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}'\n\n    @pytest.mark.parametrize(\"key,api_data\", data)\n    @allure.story(\"点击查询条件\")\n    def test_click_elements_002(self, key, api_data):\n    \n        res = self.rb.check_ele_click(key)\n        if res:\n            time.sleep(2)\n            if api_data:\n>               self.compare_result(api_data)\n\ntest_mo_off_list.py:95: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <case.test_mo_off_list.TestOofList object at 0x10b7ba990>, api_data = '{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}'\n\n    def compare_result(self, api_data):\n    \n        # 忽略https的警告信息\n        requests.packages.urllib3.disable_warnings()\n        res2 = requests.request('post', url=url1, data=json.dumps(json.loads(api_data)), headers=header, verify=False)\n        num = res2.json()['data']['total']\n    \n        if (self.rb.get_ele_exist('off_no_data')) is True:\n            res1 = self.rb.get_ele('off_all_num')\n            res1_num = re.sub('\\D', '', res1)\n>           assert int(res1_num) == int(num)\nE           AssertionError: assert 48 == 0\nE            +  where 48 = int('48')\nE            +  and   0 = int(0)\n\ntest_mo_off_list.py:53: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1601194320142,
+      "stop" : 1601194320142,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601194280278,
+      "stop" : 1601194284277,
+      "duration" : 3999
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 48 == 0\n +  where 48 = int('48')\n +  and   0 = int(0)",
+    "statusTrace" : "self = <case.test_mo_off_list.TestOofList object at 0x10b7ba990>, key = 'off_feature_click'\napi_data = '{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}'\n\n    @pytest.mark.parametrize(\"key,api_data\", data)\n    @allure.story(\"点击查询条件\")\n    def test_click_elements_002(self, key, api_data):\n    \n        res = self.rb.check_ele_click(key)\n        if res:\n            time.sleep(2)\n            if api_data:\n>               self.compare_result(api_data)\n\ntest_mo_off_list.py:95: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <case.test_mo_off_list.TestOofList object at 0x10b7ba990>, api_data = '{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}'\n\n    def compare_result(self, api_data):\n    \n        # 忽略https的警告信息\n        requests.packages.urllib3.disable_warnings()\n        res2 = requests.request('post', url=url1, data=json.dumps(json.loads(api_data)), headers=header, verify=False)\n        num = res2.json()['data']['total']\n    \n        if (self.rb.get_ele_exist('off_no_data')) is True:\n            res1 = self.rb.get_ele('off_all_num')\n            res1_num = re.sub('\\D', '', res1)\n>           assert int(res1_num) == int(num)\nE           AssertionError: assert 48 == 0\nE            +  where 48 = int('48')\nE            +  and   0 = int(0)\n\ntest_mo_off_list.py:53: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f3313776d0b83802",
+      "name" : "log",
+      "source" : "f3313776d0b83802.txt",
+      "type" : "text/plain",
+      "size" : 430
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1601194322418,
+      "stop" : 1601194322418,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601194327666,
+      "stop" : 1601194327797,
+      "duration" : 131
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "点击查询条件"
+  }, {
+    "name" : "feature",
+    "value" : "办公室列表页"
+  }, {
+    "name" : "suite",
+    "value" : "test_mo_off_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestOofList"
+  }, {
+    "name" : "host",
+    "value" : "jiangyundeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mo_off_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "api_data",
+    "value" : "'{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}'"
+  }, {
+    "name" : "key",
+    "value" : "'off_feature_click'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "bd4677e803fe480b.json",
+  "parameterValues" : [ "'{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}'", "'off_feature_click'" ]
+}

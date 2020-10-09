@@ -1,0 +1,248 @@
+2020-09-21 10:06:43,392 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'徐汇区')]
+2020-09-21 10:06:45,790 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:06:45,804 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:06:45,837 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '徐家汇')]
+2020-09-21 10:06:48,296 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:06:48,400 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '地铁')]
+2020-09-21 10:06:50,522 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '地铁1号线')]
+2020-09-21 10:06:52,835 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:06:52,844 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:06:52,877 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '徐家汇')]
+2020-09-21 10:06:55,345 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:06:55,378 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[4]/a[1][contains(text(),'全部')]
+2020-09-21 10:06:57,486 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'300-500')]
+2020-09-21 10:07:00,011 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:07:00,042 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[2]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:07:00,074 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'人数')]
+2020-09-21 10:07:02,185 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'8-15')]
+2020-09-21 10:07:04,538 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:07:04,548 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:07:04,577 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[2]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:07:06,677 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'7-9')]
+2020-09-21 10:07:06,697 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[3]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:07:08,754 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'简单装修')]
+2020-09-21 10:07:11,281 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:07:11,290 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:07:11,316 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[4]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:07:13,416 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[5]/div/div[2]/div/div/a[1]
+2020-09-21 10:07:15,698 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:07:15,729 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[5]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:07:17,833 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[6]//a/text()
+2020-09-21 10:07:17,858 mo_pro_handle.py--> send_queiry_content 20: INFO ----->输入的搜索内容：办伴
+2020-09-21 10:07:17,859 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="input-search"]/input[1]
+2020-09-21 10:07:21,030 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://form/div/span
+2020-09-21 10:07:31,786 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'徐汇区')]
+2020-09-21 10:07:34,060 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:07:34,073 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:07:34,103 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '徐家汇')]
+2020-09-21 10:07:36,274 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:07:36,284 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:07:36,305 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '地铁')]
+2020-09-21 10:07:38,412 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '地铁1号线')]
+2020-09-21 10:07:40,611 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:07:40,620 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:07:40,643 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '徐家汇')]
+2020-09-21 10:07:42,808 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:07:42,817 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:07:42,839 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[4]/a[1][contains(text(),'全部')]
+2020-09-21 10:07:44,929 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '写字楼') and contains(@class,'fs-12 fw-regular')]
+2020-09-21 10:07:47,120 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:07:47,129 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:07:47,149 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[2]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:07:49,252 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'300-500')]
+2020-09-21 10:07:51,448 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:07:51,457 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:07:51,478 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[3]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:07:51,511 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'人数')]
+2020-09-21 10:07:53,604 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'8-15')]
+2020-09-21 10:07:55,790 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:07:55,800 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:07:55,821 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[3]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:07:57,905 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'7-9')]
+2020-09-21 10:08:00,098 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:08:00,107 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:00,128 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[4]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:08:02,216 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'简单装修')]
+2020-09-21 10:08:04,419 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'找不到理想的办公室')]
+2020-09-21 10:08:04,428 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:04,450 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[5]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:08:06,536 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[6]//div/a[2]//label/input
+2020-09-21 10:08:08,660 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[6]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:08:10,742 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[7]//a/text()
+2020-09-21 10:08:10,766 mo_pro_handle.py--> send_queiry_content 20: INFO ----->输入的搜索内容：大厦
+2020-09-21 10:08:10,768 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="input-search"]/input[1]
+2020-09-21 10:08:13,898 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://form/div/span
+2020-09-21 10:08:18,930 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'徐汇区')]
+2020-09-21 10:08:21,408 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:21,434 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:22,078 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '徐家汇')]
+2020-09-21 10:08:24,365 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:24,381 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:24,964 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '地铁')]
+2020-09-21 10:08:27,081 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '地铁1号线')]
+2020-09-21 10:08:29,401 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:29,425 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:29,932 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '徐家汇')]
+2020-09-21 10:08:32,209 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:32,224 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:32,729 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[4]/a[1][contains(text(),'全部')]
+2020-09-21 10:08:34,842 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '写字楼') and contains(@class,'fs-12 fw-regular')]
+2020-09-21 10:08:37,279 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:37,296 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:37,879 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[2]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:08:39,986 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'300-500')]
+2020-09-21 10:08:42,365 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:42,383 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:42,972 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[3]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:08:43,575 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'人数')]
+2020-09-21 10:08:45,682 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'8-15')]
+2020-09-21 10:08:48,065 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:48,081 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:48,654 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[3]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:08:50,746 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'7-9')]
+2020-09-21 10:08:53,045 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:53,060 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:53,641 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[4]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:08:55,740 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'简单装修')]
+2020-09-21 10:08:58,168 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:58,184 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:08:58,759 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[5]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:09:00,863 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[6]//div/a[2]//label/input
+2020-09-21 10:09:02,990 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[6]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:09:05,063 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[7]//a/text()
+2020-09-21 10:09:05,639 mo_pro_handle.py--> send_queiry_content 20: INFO ----->输入的搜索内容：大厦
+2020-09-21 10:09:05,641 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="input-search"]/input[1]
+2020-09-21 10:09:08,820 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://form/div/span
+2020-09-21 10:22:22,794 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'徐汇区')]
+2020-09-21 10:22:25,108 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:22:25,190 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '徐家汇')]
+2020-09-21 10:22:27,643 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:22:27,669 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '地铁')]
+2020-09-21 10:22:29,764 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '地铁1号线')]
+2020-09-21 10:22:32,061 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:22:32,085 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '徐家汇')]
+2020-09-21 10:22:34,535 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:22:34,558 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[4]/a[1][contains(text(),'全部')]
+2020-09-21 10:22:36,649 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'300-500')]
+2020-09-21 10:22:39,134 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:22:39,158 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[2]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:22:39,185 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'人数')]
+2020-09-21 10:22:41,273 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'8-15')]
+2020-09-21 10:22:43,626 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:22:43,651 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[2]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:22:45,738 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'7-9')]
+2020-09-21 10:22:45,756 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[3]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:22:47,814 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'简单装修')]
+2020-09-21 10:22:50,298 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:22:50,322 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[4]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:22:52,414 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[5]/div/div[2]/div/div/a[1]
+2020-09-21 10:22:54,699 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:22:54,724 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[5]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:22:56,812 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[6]//a/text()
+2020-09-21 10:22:56,833 mo_pro_handle.py--> send_queiry_content 20: INFO ----->输入的搜索内容：办伴
+2020-09-21 10:22:56,834 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="input-search"]/input[1]
+2020-09-21 10:23:00,045 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://form/div/span
+2020-09-21 10:24:10,510 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'徐汇区')]
+2020-09-21 10:24:12,842 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:24:12,867 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:24:12,885 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '徐家汇')]
+2020-09-21 10:24:15,374 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:24:15,391 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:24:15,407 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '地铁')]
+2020-09-21 10:24:17,504 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '地铁1号线')]
+2020-09-21 10:24:19,786 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:24:19,802 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:24:19,819 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(), '徐家汇')]
+2020-09-21 10:24:22,191 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:24:22,207 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:24:22,224 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[4]/a[1][contains(text(),'全部')]
+2020-09-21 10:24:24,312 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'300-500')]
+2020-09-21 10:24:26,816 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:24:26,838 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:24:26,855 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[2]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:24:26,878 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'人数')]
+2020-09-21 10:24:28,967 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'8-15')]
+2020-09-21 10:24:31,302 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:24:31,318 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:24:31,334 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[2]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:24:33,413 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(),'7-9')]
+2020-09-21 10:24:33,430 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[3]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:24:35,485 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'简单装修')]
+2020-09-21 10:24:37,969 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:24:37,986 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:24:38,058 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[4]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:24:40,153 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[5]/div/div[2]/div/div/a[1]
+2020-09-21 10:24:42,448 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[2]/div/div/div[1]/div/div[1]/div[1]
+2020-09-21 10:24:42,472 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[contains(text(),'共计')]
+2020-09-21 10:24:42,495 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[5]/div/div[2]//a[contains(text(),'不限')]
+2020-09-21 10:24:44,588 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[6]//a/text()
+2020-09-21 10:24:44,607 mo_pro_handle.py--> send_queiry_content 20: INFO ----->输入的搜索内容：办伴
+2020-09-21 10:24:44,609 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="input-search"]/input[1]
+2020-09-21 10:24:47,753 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://form/div/span
+2020-09-21 18:01:14,085 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[2]/div[2]/div/div[1]/div/a/div[3]
+2020-09-21 18:01:14,202 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]/div/div[2]
+2020-09-21 18:01:19,412 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[3]/div[2]/div[1]/a[1]/img
+2020-09-21 18:01:19,598 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]/div/div[7]/div
+2020-09-21 18:01:23,088 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[3]/div[2]/div[2]/div[1]/div/a/div[1]/div
+2020-09-21 18:01:23,217 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[2]/div[1]//div[1]/div/div/div/h1
+2020-09-21 18:01:27,240 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[4]/div[2]/div/div[1]/div/a/div[1]/div
+2020-09-21 18:01:27,372 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]/div/div[1]/div/div/div[1]
+2020-09-21 18:01:31,285 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[5]/div[2]/div/div[1]/div/a/div[1]/div
+2020-09-21 18:01:31,397 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]//div/div/div[1]/div/h1
+2020-09-21 18:01:34,523 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[6]/div/div/div[2]/div[1]/div[2]/div[1]/span[1]/a
+2020-09-21 18:01:34,642 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[2]/div[2]/div/div[1]
+2020-09-21 18:01:38,383 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="input-search"]/input[1]
+2020-09-21 18:01:38,641 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[1]/div[2]/div/div[2]/form/div/span/img
+2020-09-21 18:01:38,712 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]/div/div[2]
+2020-09-21 18:01:51,010 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[3]//textarea
+2020-09-21 18:01:51,228 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div/div[2]/div[2]/div/div/div[3]/div[3]/input
+2020-09-21 18:01:51,411 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://button[contains(text(), '立即委托')]
+2020-09-21 18:01:51,476 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(), '手机号码不正确')]
+2020-09-21 18:01:51,673 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[3]//textarea
+2020-09-21 18:01:51,822 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div/div[2]/div[2]/div/div/div[3]/div[3]/input
+2020-09-21 18:01:51,948 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://button[contains(text(), '立即委托')]
+2020-09-21 18:01:51,969 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[5]/div[2]/div[3]
+2020-09-21 18:01:55,285 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[5]/div[2]/div[3]
+2020-09-21 18:02:02,834 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]/div/div[2]
+2020-09-21 18:02:03,060 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'徐汇区')]
+2020-09-21 18:05:50,506 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[2]/div[2]/div/div[1]/div/a/div[3]
+2020-09-21 18:05:53,949 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[3]/div[2]/div[1]/a[1]/img
+2020-09-21 18:05:54,057 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[3]/div[2]/div[2]/div[1]/div/a/div[1]/div
+2020-09-21 18:05:54,159 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[4]/div[2]/div/div[1]/div/a/div[1]/div
+2020-09-21 18:05:54,253 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[5]/div[2]/div/div[1]/div/a/div[1]/div
+2020-09-21 18:05:54,346 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[6]/div/div/div[2]/div[1]/div[2]/div[1]/span[1]/a
+2020-09-21 18:05:54,456 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="input-search"]/input[1]
+2020-09-21 18:05:54,547 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[1]/div[2]/div/div[2]/form/div/span/img
+2020-09-21 18:06:05,534 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[3]//textarea
+2020-09-21 18:06:05,687 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div/div[2]/div[2]/div/div/div[3]/div[3]/input
+2020-09-21 18:06:05,813 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://button[contains(text(), '立即委托')]
+2020-09-21 18:06:05,915 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[3]//textarea
+2020-09-21 18:06:06,016 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div/div[2]/div[2]/div/div/div[3]/div[3]/input
+2020-09-21 18:06:06,119 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://button[contains(text(), '立即委托')]
+2020-09-21 18:06:09,313 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[5]/div[2]/div[3]
+2020-09-21 18:07:48,568 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[2]/div[2]/div/div[1]/div/a/div[3]
+2020-09-21 18:07:48,678 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]/div/div[2]
+2020-09-21 18:07:53,730 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[3]/div[2]/div[1]/a[1]/img
+2020-09-21 18:07:53,952 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]/div/div[7]/div
+2020-09-21 18:07:57,511 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[3]/div[2]/div[2]/div[1]/div/a/div[1]/div
+2020-09-21 18:07:57,667 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[2]/div[1]//div[1]/div/div/div/h1
+2020-09-21 18:08:01,740 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[4]/div[2]/div/div[1]/div/a/div[1]/div
+2020-09-21 18:08:01,864 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]/div/div[1]/div/div/div[1]
+2020-09-21 18:08:05,732 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[5]/div[2]/div/div[1]/div/a/div[1]/div
+2020-09-21 18:08:05,853 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]//div/div/div[1]/div/h1
+2020-09-21 18:08:09,609 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[6]/div/div/div[2]/div[1]/div[2]/div[1]/span[1]/a
+2020-09-21 18:08:09,726 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[2]/div[2]/div/div[1]
+2020-09-21 18:08:13,463 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="input-search"]/input[1]
+2020-09-21 18:08:13,714 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[1]/div[1]/div[2]/div/div[2]/form/div/span/img
+2020-09-21 18:08:13,786 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]/div/div[2]
+2020-09-21 18:08:25,062 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[3]//textarea
+2020-09-21 18:08:25,304 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div/div[2]/div[2]/div/div/div[3]/div[3]/input
+2020-09-21 18:08:25,522 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://button[contains(text(), '立即委托')]
+2020-09-21 18:08:25,601 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://span[contains(text(), '手机号码不正确')]
+2020-09-21 18:08:25,816 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[3]//textarea
+2020-09-21 18:08:26,006 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div/div[2]/div[2]/div/div/div[3]/div[3]/input
+2020-09-21 18:08:26,128 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://button[contains(text(), '立即委托')]
+2020-09-21 18:08:26,147 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[5]/div[2]/div[3]
+2020-09-21 18:08:29,414 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[5]/div[2]/div[3]
+2020-09-21 18:08:37,017 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]/div/div[2]
+2020-09-21 18:08:37,217 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://a[contains(text(),'徐汇区')]

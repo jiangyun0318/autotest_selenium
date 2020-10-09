@@ -1,0 +1,150 @@
+{
+  "uid" : "66064eb959bc7f63",
+  "name" : "test_click_elements_002[pro_feature_click-{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}]",
+  "fullName" : "test_mo_pro_list.TestProList#test_click_elements_002[pro_feature_click-{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":",
+  "historyId" : "118b71b2e546651cbed5c31476034d73",
+  "time" : {
+    "start" : 1601194374186,
+    "stop" : 1601194376981,
+    "duration" : 2795
+  },
+  "description" : "{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}",
+  "descriptionHtml" : "<p>{&quot;page&quot;:1,&quot;pageSize&quot;:20,&quot;type&quot;:0,&quot;featureIds&quot;:[&quot;395&quot;],&quot;cityId&quot;:310100}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601194327800,
+      "stop" : 1601194332426,
+      "duration" : 4626
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1601194374184,
+      "stop" : 1601194374185,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e1c7352640fa8b18",
+      "name" : "运行截图",
+      "source" : "e1c7352640fa8b18.png",
+      "type" : "image/png",
+      "size" : 784863
+    }, {
+      "uid" : "713b414412f3f196",
+      "name" : "log",
+      "source" : "713b414412f3f196.txt",
+      "type" : "text/plain",
+      "size" : 315
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601194383220,
+      "stop" : 1601194383327,
+      "duration" : 107
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1601194376982,
+      "stop" : 1601194376982,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "点击查询条件"
+  }, {
+    "name" : "feature",
+    "value" : "写字楼列表页"
+  }, {
+    "name" : "suite",
+    "value" : "test_mo_pro_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProList"
+  }, {
+    "name" : "host",
+    "value" : "jiangyundeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mo_pro_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "api_data",
+    "value" : "'{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}'"
+  }, {
+    "name" : "key",
+    "value" : "'pro_feature_click'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66064eb959bc7f63.json",
+  "parameterValues" : [ "'{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}'", "'pro_feature_click'" ]
+}

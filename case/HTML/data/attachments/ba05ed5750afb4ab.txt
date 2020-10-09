@@ -1,0 +1,5 @@
+[32mINFO    [0m log.user_log:mo_retaine_handle.py:20 输入的手机号为：1560000000
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://div[2]/div//div[3]/input
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://button[contains(text(), '立即委托')]
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://button[contains(text(), '立即委托')]
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://span[contains(text(), '手机号码不正确')]

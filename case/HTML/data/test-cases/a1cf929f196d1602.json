@@ -1,0 +1,141 @@
+{
+  "uid" : "a1cf929f196d1602",
+  "name" : "test_click_elements_003[type_of_pro-property_element]",
+  "fullName" : "test_mo_shouye_about.TestShouYe#test_click_elements_003",
+  "historyId" : "f70a727ff1fd52e8ccae55f62d2476bf",
+  "time" : {
+    "start" : 1601194412312,
+    "stop" : 1601194416399,
+    "duration" : 4087
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1601194408951,
+      "stop" : 1601194412310,
+      "duration" : 3359
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601194383330,
+      "stop" : 1601194390238,
+      "duration" : 6908
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5c6d4489eff28aba",
+      "name" : "log",
+      "source" : "5c6d4489eff28aba.txt",
+      "type" : "text/plain",
+      "size" : 263
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1601194416400,
+      "stop" : 1601194416400,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601194541191,
+      "stop" : 1601194541317,
+      "duration" : 126
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "定位元素+点击(不跳转新页面)"
+  }, {
+    "name" : "feature",
+    "value" : "首页"
+  }, {
+    "name" : "suite",
+    "value" : "test_mo_shouye_about"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestShouYe"
+  }, {
+    "name" : "host",
+    "value" : "jiangyundeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mo_shouye_about"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expect_value",
+    "value" : "'property_element'"
+  }, {
+    "name" : "key",
+    "value" : "'type_of_pro'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1cf929f196d1602.json",
+  "parameterValues" : [ "'property_element'", "'type_of_pro'" ]
+}

@@ -1,0 +1,2 @@
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://li/a[contains(text(), '地图找房')]
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://*[@id="app"]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]

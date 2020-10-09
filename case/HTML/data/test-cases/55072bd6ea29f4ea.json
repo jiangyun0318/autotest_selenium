@@ -1,0 +1,141 @@
+{
+  "uid" : "55072bd6ea29f4ea",
+  "name" : "test_click_elements_002[join_price_click-{\"page\":1,\"pageSize\":20,\"priceMax\":1500,\"priceMin\":800,\"type\":0,\"featureIds\":[],\"cityId\":310100}]",
+  "fullName" : "test_mo_join_list.TestJoinList#test_click_elements_002[join_price_click-{\"page\":1,\"pageSize\":20,\"priceMax\":1500,\"priceMin\":800,\"type\":0,\"featureIds\":",
+  "historyId" : "ca388741c9872ad20c5e2f8f3e8d7e37",
+  "time" : {
+    "start" : 1601194266043,
+    "stop" : 1601194266061,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1601194266042,
+      "stop" : 1601194266042,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601194239125,
+      "stop" : 1601194242968,
+      "duration" : 3843
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b47ba49e0198f5ab",
+      "name" : "log",
+      "source" : "b47ba49e0198f5ab.txt",
+      "type" : "text/plain",
+      "size" : 112
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1601194266063,
+      "stop" : 1601194266063,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601194280155,
+      "stop" : 1601194280275,
+      "duration" : 120
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "点击查询条件"
+  }, {
+    "name" : "feature",
+    "value" : "联合办公列表页"
+  }, {
+    "name" : "suite",
+    "value" : "test_mo_join_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestJoinList"
+  }, {
+    "name" : "host",
+    "value" : "jiangyundeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mo_join_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "api_data",
+    "value" : "'{\"page\":1,\"pageSize\":20,\"priceMax\":1500,\"priceMin\":800,\"type\":0,\"featureIds\":[],\"cityId\":310100}'"
+  }, {
+    "name" : "key",
+    "value" : "'join_price_click'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55072bd6ea29f4ea.json",
+  "parameterValues" : [ "'{\"page\":1,\"pageSize\":20,\"priceMax\":1500,\"priceMin\":800,\"type\":0,\"featureIds\":[],\"cityId\":310100}'", "'join_price_click'" ]
+}

@@ -1,0 +1,3 @@
+[32mINFO    [0m log.user_log:mo_pro_handle.py:23 输入的搜索内容：大厦
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://*[@id="input-search"]/input[1]
+[32mINFO    [0m log.user_log:find_element.py:20 定位方式:xpath--->定位值://form/div/span

@@ -1,0 +1,911 @@
+[ {
+  "uid" : "1f18f0067feaefe9",
+  "name" : "test_click_elements_002[pro_feature_buxian_click-]",
+  "time" : {
+    "start" : 1601194376984,
+    "stop" : 1601194379038,
+    "duration" : 2054
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad1e21ae92ac5b78",
+  "name" : "test_click_elements_002[join_people_click-]",
+  "time" : {
+    "start" : 1601194259513,
+    "stop" : 1601194261596,
+    "duration" : 2083
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd0a02ef8cd46212",
+  "name" : "test_click_elements_004[sy_lianban_click-lianban_element]",
+  "time" : {
+    "start" : 1601194431044,
+    "stop" : 1601194458085,
+    "duration" : 27041
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "911a6c3065eb81c4",
+  "name" : "test_queriy_es_003",
+  "time" : {
+    "start" : 1601194379580,
+    "stop" : 1601194383219,
+    "duration" : 3639
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8fdf955dbdeddfb",
+  "name" : "test_click_elements_002[pro_subway_all_click-]",
+  "time" : {
+    "start" : 1601194346191,
+    "stop" : 1601194348275,
+    "duration" : 2084
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31564ec79398fab",
+  "name" : "test_group_elements_002[sy_remen]",
+  "time" : {
+    "start" : 1601194390259,
+    "stop" : 1601194390259,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "eb2dd0e2321acd7",
+  "name" : "test_click_elements_002[join_nump_click-{\"page\":1,\"pageSize\":20,\"numBerMax\":15,\"numBerMin\":8,\"type\":0,\"featureIds\":[],\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194261604,
+    "stop" : 1601194263937,
+    "duration" : 2333
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c37e3fabbaff8a37",
+  "name" : "test_click_elements_002[pro_clear_all-{\"page\":1,\"pageSize\":20,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194379043,
+    "stop" : 1601194379576,
+    "duration" : 533
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b56aec657860d876",
+  "name" : "test_click_elements_002[pro_type_buxian_click-]",
+  "time" : {
+    "start" : 1601194351368,
+    "stop" : 1601194353454,
+    "duration" : 2086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38f2cf038e2beae1",
+  "name" : "test_click_elements_002[pro_people_click-]",
+  "time" : {
+    "start" : 1601194356967,
+    "stop" : 1601194359051,
+    "duration" : 2084
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa306f2a5f8f4b86",
+  "name" : "test_click_elements_002[pro_type_click-{\"page\":1,\"pageSize\":20,\"type\":0,\"buildingType\":\"写字楼\",\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194348283,
+    "stop" : 1601194351364,
+    "duration" : 3081
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30f9fd8b2fed0cb9",
+  "name" : "test_click_input_elements_005",
+  "time" : {
+    "start" : 1601194470990,
+    "stop" : 1601194477194,
+    "duration" : 6204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69d7ba0f864be698",
+  "name" : "test_click_elements_002[pro_price_click-{\"page\":1,\"pageSize\":20,\"priceMax\":9,\"priceMin\":7,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194364051,
+    "stop" : 1601194366910,
+    "duration" : 2859
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6abeefe9dfc69046",
+  "name" : "test_click_elements_002[off_subway_all_click-]",
+  "time" : {
+    "start" : 1601194295375,
+    "stop" : 1601194297449,
+    "duration" : 2074
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2e9c43fa32b584",
+  "name" : "test_click_elements_002[join_subway_click-]",
+  "time" : {
+    "start" : 1601194247890,
+    "stop" : 1601194249978,
+    "duration" : 2088
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64e6c797929ed073",
+  "name" : "test_click_elements_002[off_businessid_click-{\"page\":1,\"pageSize\":20,\"addressId\":310104,\"businessId\":2223,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194286628,
+    "stop" : 1601194288837,
+    "duration" : 2209
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cd7e175733b8485",
+  "name" : "test_click_elements_004[sy_brand_click-brand_element]",
+  "time" : {
+    "start" : 1601194426757,
+    "stop" : 1601194430964,
+    "duration" : 4207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab719f03c551ef0c",
+  "name" : "test_click_elements_002[off_clear_all-{\"page\":1,\"pageSize\":20,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194324495,
+    "stop" : 1601194324514,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96ddf3f450eaad5b",
+  "name" : "test_click_elements_003[type_of_join-lianban_element]",
+  "time" : {
+    "start" : 1601194397654,
+    "stop" : 1601194401741,
+    "duration" : 4087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3931ff2e89beead1",
+  "name" : "test_click_elements_002[off_fixtures_click-{\"page\":1,\"pageSize\":20,\"decorate\":\"简单装修\",\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194315815,
+    "stop" : 1601194318054,
+    "duration" : 2239
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e2bbba077a28092",
+  "name" : "test_more_service_006[more_service_element-business_element-business_element_check]",
+  "time" : {
+    "start" : 1601194497912,
+    "stop" : 1601194506094,
+    "duration" : 8182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "797c61f19beaed66",
+  "name" : "test_click_elements_002[join_contryid_click-{\"page\":1,\"pageSize\":20,\"addressId\":310104,\"type\":0,\"featureIds\":[],\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194242978,
+    "stop" : 1601194245399,
+    "duration" : 2421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84af8adc17601130",
+  "name" : "test_click_elements_002[off_nump_buxian_click-]",
+  "time" : {
+    "start" : 1601194308371,
+    "stop" : 1601194310436,
+    "duration" : 2065
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ac81dccc3f947ec",
+  "name" : "test_click_elements_002[off_type_click-{\"page\":1,\"pageSize\":20,\"type\":0,\"buildingType\":\"写字楼\",\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194297458,
+    "stop" : 1601194299704,
+    "duration" : 2246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "570d7304499510a2",
+  "name" : "test_click_elements_004[sy_bgshi_click-bgshi_element]",
+  "time" : {
+    "start" : 1601194462477,
+    "stop" : 1601194466659,
+    "duration" : 4182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e0790fdf9b7932",
+  "name" : "test_click_elements_002[off_area_click-{\"page\":1,\"pageSize\":20,\"areaMax\":500,\"areaMin\":300,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194301786,
+    "stop" : 1601194304018,
+    "duration" : 2232
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27a4a5da0a5ab320",
+  "name" : "test_click_elements_002[off_people_click-]",
+  "time" : {
+    "start" : 1601194304047,
+    "stop" : 1601194306130,
+    "duration" : 2083
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2087f4da2d0cb908",
+  "name" : "test_click_elements_003[sy_remen_click-xiezilou_element]",
+  "time" : {
+    "start" : 1601194390280,
+    "stop" : 1601194394430,
+    "duration" : 4150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61e205796c9bd238",
+  "name" : "test_click_elements_002[off_subway_click-]",
+  "time" : {
+    "start" : 1601194288841,
+    "stop" : 1601194290927,
+    "duration" : 2086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9904ca87d8e7b45e",
+  "name" : "test_click_elements_002[pro_businessid_click-{\"page\":1,\"pageSize\":20,\"addressId\":310104,\"businessId\":2223,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194335441,
+    "stop" : 1601194338299,
+    "duration" : 2858
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29f4dcb0c66aa4aa",
+  "name" : "test_input_mobile_success_003",
+  "time" : {
+    "start" : 1601194216064,
+    "stop" : 1601194220337,
+    "duration" : 4273
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f7f74acb410d0f3",
+  "name" : "test_click_elements_002[join_subwaystationid_click-{\"page\":1,\"pageSize\":20,\"metroId\":68,\"subwayId\":840,\"type\":0,\"featureIds\":[],\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194252323,
+    "stop" : 1601194254882,
+    "duration" : 2559
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "308f2d8c497ae669",
+  "name" : "test_queriy_es_003",
+  "time" : {
+    "start" : 1601194276999,
+    "stop" : 1601194280154,
+    "duration" : 3155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66064eb959bc7f63",
+  "name" : "test_click_elements_002[pro_feature_click-{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194374186,
+    "stop" : 1601194376981,
+    "duration" : 2795
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf4c7b9ff6ac24d8",
+  "name" : "test_click_elements_002[pro_area_buxian_click-]",
+  "time" : {
+    "start" : 1601194356437,
+    "stop" : 1601194356963,
+    "duration" : 526
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65c1d32bafb97ae2",
+  "name" : "test_click_elements_004[sy_zixun_click-zixun_element]",
+  "time" : {
+    "start" : 1601194466742,
+    "stop" : 1601194470963,
+    "duration" : 4221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd6ccc941f14feb1",
+  "name" : "test_click_elements_002[pro_nump_click-{\"page\":1,\"pageSize\":20,\"numBerMax\":15,\"numBerMin\":8,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194359060,
+    "stop" : 1601194361961,
+    "duration" : 2901
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c150cc1921497c9d",
+  "name" : "test_group_elements_002[sy_brand]",
+  "time" : {
+    "start" : 1601194390262,
+    "stop" : 1601194390262,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "53fed6926ea5424",
+  "name" : "test_click_elements_002[pro_contryid_click-{\"page\":1,\"pageSize\":20,\"addressId\":310104,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194332436,
+    "stop" : 1601194335437,
+    "duration" : 3001
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b10ce19685936fcb",
+  "name" : "test_title_001",
+  "time" : {
+    "start" : 1601194202755,
+    "stop" : 1601194202762,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b22deccd56d3914",
+  "name" : "test_click_elements_002[off_price_buxian_click-]",
+  "time" : {
+    "start" : 1601194313732,
+    "stop" : 1601194315807,
+    "duration" : 2075
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb12dffd3cba4774",
+  "name" : "test_more_service_006[more_service_element-through_element-through_element_check]",
+  "time" : {
+    "start" : 1601194521794,
+    "stop" : 1601194529966,
+    "duration" : 8172
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e20f49e6e9741735",
+  "name" : "test_click_elements_002[join_subwayid_click-{\"page\":1,\"pageSize\":20,\"metroId\":68,\"type\":0,\"featureIds\":[],\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194249987,
+    "stop" : 1601194252319,
+    "duration" : 2332
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "745c90c15cd0475e",
+  "name" : "test_click_elements_002[pro_subway_click-]",
+  "time" : {
+    "start" : 1601194338302,
+    "stop" : 1601194340395,
+    "duration" : 2093
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6eaa1bc91d061e9",
+  "name" : "test_group_elements_002[sy_property]",
+  "time" : {
+    "start" : 1601194390265,
+    "stop" : 1601194390265,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a50ec24616ca0c08",
+  "name" : "test_click_elements_002[join_fixtures_click-{\"page\":1,\"pageSize\":20,\"decorate\":\"简单装修\",\"type\":0,\"featureIds\":[],\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194268121,
+    "stop" : 1601194270437,
+    "duration" : 2316
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a110f5139b4bc74b",
+  "name" : "test_more_service_006[more_service_element-place_element-place_element_check]",
+  "time" : {
+    "start" : 1601194483066,
+    "stop" : 1601194491290,
+    "duration" : 8224
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3a7f174d4c9b3ab",
+  "name" : "test_title_001",
+  "time" : {
+    "start" : 1601194390253,
+    "stop" : 1601194390257,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d96fc702e1fc0d5f",
+  "name" : "test_click_elements_002[join_brand_click-{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[],\"jointBrandId\":2,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194272533,
+    "stop" : 1601194274873,
+    "duration" : 2340
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bfbedaa7bc0f7235",
+  "name" : "test_queriy_es_003",
+  "time" : {
+    "start" : 1601194324519,
+    "stop" : 1601194327665,
+    "duration" : 3146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a59c1f09dc544593",
+  "name" : "test_click_elements_002[off_contryid_click-{\"page\":1,\"pageSize\":20,\"addressId\":310104,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194284291,
+    "stop" : 1601194286624,
+    "duration" : 2333
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50735f60bcc1c359",
+  "name" : "test_more_service_006[more_service_element-service_element-service_element_check]",
+  "time" : {
+    "start" : 1601194532980,
+    "stop" : 1601194541189,
+    "duration" : 8209
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "166a8ba20feb9291",
+  "name" : "test_click_elements_002[pro_nump_buxian_click-]",
+  "time" : {
+    "start" : 1601194361964,
+    "stop" : 1601194364044,
+    "duration" : 2080
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd4677e803fe480b",
+  "name" : "test_click_elements_002[off_feature_click-{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[\"395\"],\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194320143,
+    "stop" : 1601194322363,
+    "duration" : 2220
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4311be1c6a6b5caa",
+  "name" : "test_click_elements_002[pro_subwaystationid_click-{\"page\":1,\"pageSize\":20,\"metroId\":68,\"subwayId\":840,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194343393,
+    "stop" : 1601194346187,
+    "duration" : 2794
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d4e356ac2c6c3b7",
+  "name" : "test_click_elements_003[type_of_off-bgshi_element]",
+  "time" : {
+    "start" : 1601194404869,
+    "stop" : 1601194408948,
+    "duration" : 4079
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e0710c29707337f",
+  "name" : "test_click_elements_002[join_nump_buxian_click-]",
+  "time" : {
+    "start" : 1601194263941,
+    "stop" : 1601194266027,
+    "duration" : 2086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3193703a6b93bfb",
+  "name" : "test_click_elements_002[join_clear_all-{\"page\":1,\"pageSize\":20,\"type\":0,\"featureIds\":[],\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194276974,
+    "stop" : 1601194276995,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd4817d9efd8f07a",
+  "name" : "test_click_elements_002[off_price_click-{\"page\":1,\"pageSize\":20,\"priceMax\":9,\"priceMin\":7,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194310444,
+    "stop" : 1601194313728,
+    "duration" : 3284
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad0f7352005ed0ea",
+  "name" : "test_click_elements_002[pro_fixtures_click-{\"page\":1,\"pageSize\":20,\"decorate\":\"简单装修\",\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194368991,
+    "stop" : 1601194372079,
+    "duration" : 3088
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a027dda340172ceb",
+  "name" : "test_click_elements_002[join_price_buxian_click-]",
+  "time" : {
+    "start" : 1601194266066,
+    "stop" : 1601194268113,
+    "duration" : 2047
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d726bee0a59f0d",
+  "name" : "test_click_elements_002[off_type_buxian_click-]",
+  "time" : {
+    "start" : 1601194299708,
+    "stop" : 1601194301778,
+    "duration" : 2070
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4caa064978f143d4",
+  "name" : "test_click_elements_002[join_area_buxian_click-]",
+  "time" : {
+    "start" : 1601194259489,
+    "stop" : 1601194259510,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ac66d82fcd7663b",
+  "name" : "test_title_001",
+  "time" : {
+    "start" : 1601194226452,
+    "stop" : 1601194226459,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52b915f637fd0d2f",
+  "name" : "test_click_elements_002[join_area_click-{\"page\":1,\"pageSize\":20,\"areaMax\":500,\"areaMin\":300,\"type\":0,\"featureIds\":[],\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194256978,
+    "stop" : 1601194259484,
+    "duration" : 2506
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b43ab3ada6c95be",
+  "name" : "test_more_service_006[more_service_element-space_element-space_element_check]",
+  "time" : {
+    "start" : 1601194509721,
+    "stop" : 1601194517892,
+    "duration" : 8171
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55072bd6ea29f4ea",
+  "name" : "test_click_elements_002[join_price_click-{\"page\":1,\"pageSize\":20,\"priceMax\":1500,\"priceMin\":800,\"type\":0,\"featureIds\":[],\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194266043,
+    "stop" : 1601194266061,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c70abc27a221efb5",
+  "name" : "test_click_elements_002[pro_area_click-{\"page\":1,\"pageSize\":20,\"areaMax\":500,\"areaMin\":300,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194353463,
+    "stop" : 1601194356433,
+    "duration" : 2970
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73081e0716240a0a",
+  "name" : "test_input_mobile_error_002",
+  "time" : {
+    "start" : 1601194226463,
+    "stop" : 1601194234731,
+    "duration" : 8268
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8922e0f62c77eab",
+  "name" : "test_click_elements_002[join_businessid_click-{\"page\":1,\"pageSize\":20,\"addressId\":310104,\"businessId\":2223,\"type\":0,\"featureIds\":[],\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194245402,
+    "stop" : 1601194247886,
+    "duration" : 2484
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "251097a328d722b2",
+  "name" : "test_click_elements_002[pro_fixtures_buxian_click-]",
+  "time" : {
+    "start" : 1601194372083,
+    "stop" : 1601194374179,
+    "duration" : 2096
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44d8216808a156dd",
+  "name" : "test_input_mobile_success_003",
+  "time" : {
+    "start" : 1601194234734,
+    "stop" : 1601194238940,
+    "duration" : 4206
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "323a40ac78c1e2d7",
+  "name" : "test_click_elements_002[off_subwaystationid_click-{\"page\":1,\"pageSize\":20,\"metroId\":68,\"subwayId\":840,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194293177,
+    "stop" : 1601194295371,
+    "duration" : 2194
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f6706adf5f13da7",
+  "name" : "test_click_elements_002[off_nump_click-{\"page\":1,\"pageSize\":20,\"numBerMax\":15,\"numBerMin\":8,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194306138,
+    "stop" : 1601194308367,
+    "duration" : 2229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "717fd409667c92db",
+  "name" : "test_group_elements_002[sy_bgshi]",
+  "time" : {
+    "start" : 1601194390267,
+    "stop" : 1601194390267,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7ec91352399fdae0",
+  "name" : "test_click_elements_002[join_fixtures_buxian_click-]",
+  "time" : {
+    "start" : 1601194270441,
+    "stop" : 1601194272526,
+    "duration" : 2085
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51795e06bb0567ba",
+  "name" : "test_click_elements_002[join_brand_buxian_click-]",
+  "time" : {
+    "start" : 1601194274877,
+    "stop" : 1601194276967,
+    "duration" : 2090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c80416de8eccc6ea",
+  "name" : "test_click_elements_002[pro_price_buxian_click-]",
+  "time" : {
+    "start" : 1601194366914,
+    "stop" : 1601194368983,
+    "duration" : 2069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc3415c99c66d045",
+  "name" : "test_title_001",
+  "time" : {
+    "start" : 1601194242970,
+    "stop" : 1601194242974,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8447928ef177b09c",
+  "name" : "test_click_elements_002[off_fixtures_buxian_click-]",
+  "time" : {
+    "start" : 1601194318058,
+    "stop" : 1601194320135,
+    "duration" : 2077
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "372db3266de31ed1",
+  "name" : "test_click_elements_003[type_of_map-map_element]",
+  "time" : {
+    "start" : 1601194419785,
+    "stop" : 1601194423874,
+    "duration" : 4089
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2af41c96612d8bee",
+  "name" : "test_click_elements_002[off_feature_buxian_click-]",
+  "time" : {
+    "start" : 1601194322421,
+    "stop" : 1601194324488,
+    "duration" : 2067
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c87860276bcdd4f",
+  "name" : "test_click_elements_004[sy_property_click-property_element]",
+  "time" : {
+    "start" : 1601194458205,
+    "stop" : 1601194462423,
+    "duration" : 4218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65a79151356e52be",
+  "name" : "test_title_001",
+  "time" : {
+    "start" : 1601194332427,
+    "stop" : 1601194332432,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e4c4a4e94937dde",
+  "name" : "test_click_elements_002[off_subwayid_click-{\"page\":1,\"pageSize\":20,\"metroId\":68,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194290935,
+    "stop" : 1601194293172,
+    "duration" : 2237
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95d97af53f170f02",
+  "name" : "test_title_001",
+  "time" : {
+    "start" : 1601194284279,
+    "stop" : 1601194284286,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68986bee374fdb94",
+  "name" : "test_input_mobile_error_002",
+  "time" : {
+    "start" : 1601194205298,
+    "stop" : 1601194213592,
+    "duration" : 8294
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4e177a166d8de7c",
+  "name" : "test_click_elements_002[join_subway_all_click-]",
+  "time" : {
+    "start" : 1601194254886,
+    "stop" : 1601194256970,
+    "duration" : 2084
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65b5f593a79deac8",
+  "name" : "test_click_elements_002[pro_subwayid_click-{\"page\":1,\"pageSize\":20,\"metroId\":68,\"type\":0,\"cityId\":310100}]",
+  "time" : {
+    "start" : 1601194340403,
+    "stop" : 1601194343390,
+    "duration" : 2987
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f36f2d3fa166783",
+  "name" : "test_click_elements_002[off_area_buxian_click-]",
+  "time" : {
+    "start" : 1601194304022,
+    "stop" : 1601194304043,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1cf929f196d1602",
+  "name" : "test_click_elements_003[type_of_pro-property_element]",
+  "time" : {
+    "start" : 1601194412312,
+    "stop" : 1601194416399,
+    "duration" : 4087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

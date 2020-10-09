@@ -1,0 +1,150 @@
+{
+  "uid" : "69d7ba0f864be698",
+  "name" : "test_click_elements_002[pro_price_click-{\"page\":1,\"pageSize\":20,\"priceMax\":9,\"priceMin\":7,\"type\":0,\"cityId\":310100}]",
+  "fullName" : "test_mo_pro_list.TestProList#test_click_elements_002",
+  "historyId" : "6ae618a8819de4ea4e15ef9f505e5bd9",
+  "time" : {
+    "start" : 1601194364051,
+    "stop" : 1601194366910,
+    "duration" : 2859
+  },
+  "description" : "{\"page\":1,\"pageSize\":20,\"priceMax\":9,\"priceMin\":7,\"type\":0,\"cityId\":310100}",
+  "descriptionHtml" : "<p>{&quot;page&quot;:1,&quot;pageSize&quot;:20,&quot;priceMax&quot;:9,&quot;priceMin&quot;:7,&quot;type&quot;:0,&quot;cityId&quot;:310100}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1601194364049,
+      "stop" : 1601194364050,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601194327800,
+      "stop" : 1601194332426,
+      "duration" : 4626
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "{\"page\":1,\"pageSize\":20,\"priceMax\":9,\"priceMin\":7,\"type\":0,\"cityId\":310100}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4cddabd1836b71",
+      "name" : "运行截图",
+      "source" : "4cddabd1836b71.png",
+      "type" : "image/png",
+      "size" : 532819
+    }, {
+      "uid" : "1460104feea30ef8",
+      "name" : "log",
+      "source" : "1460104feea30ef8.txt",
+      "type" : "text/plain",
+      "size" : 378
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1601194366912,
+      "stop" : 1601194366912,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601194383220,
+      "stop" : 1601194383327,
+      "duration" : 107
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "点击查询条件"
+  }, {
+    "name" : "feature",
+    "value" : "写字楼列表页"
+  }, {
+    "name" : "suite",
+    "value" : "test_mo_pro_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProList"
+  }, {
+    "name" : "host",
+    "value" : "jiangyundeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mo_pro_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "api_data",
+    "value" : "'{\"page\":1,\"pageSize\":20,\"priceMax\":9,\"priceMin\":7,\"type\":0,\"cityId\":310100}'"
+  }, {
+    "name" : "key",
+    "value" : "'pro_price_click'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "69d7ba0f864be698.json",
+  "parameterValues" : [ "'{\"page\":1,\"pageSize\":20,\"priceMax\":9,\"priceMin\":7,\"type\":0,\"cityId\":310100}'", "'pro_price_click'" ]
+}

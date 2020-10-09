@@ -1,0 +1,150 @@
+{
+  "uid" : "53fed6926ea5424",
+  "name" : "test_click_elements_002[pro_contryid_click-{\"page\":1,\"pageSize\":20,\"addressId\":310104,\"type\":0,\"cityId\":310100}]",
+  "fullName" : "test_mo_pro_list.TestProList#test_click_elements_002",
+  "historyId" : "7ee78318fee0e988c7a1ef6b12024100",
+  "time" : {
+    "start" : 1601194332436,
+    "stop" : 1601194335437,
+    "duration" : 3001
+  },
+  "description" : "{\"page\":1,\"pageSize\":20,\"addressId\":310104,\"type\":0,\"cityId\":310100}",
+  "descriptionHtml" : "<p>{&quot;page&quot;:1,&quot;pageSize&quot;:20,&quot;addressId&quot;:310104,&quot;type&quot;:0,&quot;cityId&quot;:310100}</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1601194332435,
+      "stop" : 1601194332436,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1601194327800,
+      "stop" : 1601194332426,
+      "duration" : 4626
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "{\"page\":1,\"pageSize\":20,\"addressId\":310104,\"type\":0,\"cityId\":310100}",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "60e451a02824e2f9",
+      "name" : "运行截图",
+      "source" : "60e451a02824e2f9.png",
+      "type" : "image/png",
+      "size" : 542896
+    }, {
+      "uid" : "c9d8f94f0c8ce3e5",
+      "name" : "log",
+      "source" : "c9d8f94f0c8ce3e5.txt",
+      "type" : "text/plain",
+      "size" : 381
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1601194335438,
+      "stop" : 1601194335438,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1601194383220,
+      "stop" : 1601194383327,
+      "duration" : 107
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "点击查询条件"
+  }, {
+    "name" : "feature",
+    "value" : "写字楼列表页"
+  }, {
+    "name" : "suite",
+    "value" : "test_mo_pro_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProList"
+  }, {
+    "name" : "host",
+    "value" : "jiangyundeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4769-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mo_pro_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "api_data",
+    "value" : "'{\"page\":1,\"pageSize\":20,\"addressId\":310104,\"type\":0,\"cityId\":310100}'"
+  }, {
+    "name" : "key",
+    "value" : "'pro_contryid_click'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53fed6926ea5424.json",
+  "parameterValues" : [ "'{\"page\":1,\"pageSize\":20,\"addressId\":310104,\"type\":0,\"cityId\":310100}'", "'pro_contryid_click'" ]
+}
