@@ -1,0 +1,37 @@
+{
+"join":
+    {
+        "sh_all": {"page":1,"pageSize":20,"type":0,"featureIds":[],"cityId":310100},
+        "country": {"page":1,"pageSize":20,"addressId":310104,"type":0,"featureIds":[],"cityId":310100},
+        "business": {"page":1,"pageSize":20,"addressId":310104,"businessId":2223,"type":0,"featureIds":[],"cityId":310100},
+        "area": {"page":1,"pageSize":20,"areaMax":300,"areaMin":100,"type":0,"featureIds":[],"cityId":310100},
+        "num": {"page":1,"pageSize":20,"numBerMax":15,"numBerMin":8,"type":0,"featureIds":[],"cityId":310100},
+        "price": {"page":1,"pageSize":20,"priceMax":1500,"priceMin":800,"type":0,"featureIds":[],"cityId":310100},
+        "decorate": {"page":1,"pageSize":20,"decorate":"简单装修","type":0,"featureIds":[],"cityId":310100},
+        "brand":{"page":1,"pageSize":20,"type":0,"featureIds":[],"jointBrandId":2,"cityId":310100}
+    },
+    "off":
+    {
+        "sh_all": {"page":1,"pageSize":20,"type":0,"featureIds":[],"cityId":310100},
+        "country": {"page":1,"pageSize":20,"addressId":310104,"type":0,"featureIds":[],"cityId":310100},
+        "business": {"page":1,"pageSize":20,"addressId":310104,"businessId":2223,"type":0,"featureIds":[],"cityId":310100},
+        "type": {"page":1,"pageSize":20,"type":0,"buildingType":"写字楼","featureIds":[],"cityId":310100},
+        "area": {"page":1,"pageSize":20,"areaMax":300,"areaMin":100,"type":0,"featureIds":[],"cityId":310100},
+        "num": {"page":1,"pageSize":20,"numBerMax":15,"numBerMin":8,"type":0,"featureIds":[],"cityId":310100},
+        "price": {"page":1,"pageSize":20,"priceMax":9,"priceMin":7,"type":0,"featureIds":[],"cityId":310100},
+        "decorate": {"page":1,"pageSize":20,"decorate":"简单装修","type":0,"featureIds":[],"cityId":310100},
+        "feature": {"page":1,"pageSize":20,"type":0,"featureIds":["337"],"cityId":310100}
+    },
+    "pro":
+    {
+        "sh_all": {"cityId":310100,"page":1,"pageSize":20,"type":0},
+        "country": {"page":1,"pageSize":20,"addressId":310104,"type":0,"cityId":310100},
+        "business": {"page":1,"pageSize":20,"addressId":310104,"businessId":2223,"type":0,"cityId":310100},
+        "type": {"page":1,"pageSize":20,"type":0,"buildingType":"写字楼","cityId":310100},
+        "area": {"page":1,"pageSize":20,"areaMax":300,"areaMin":100,"type":0,"cityId":310100},
+        "num": {"page":1,"pageSize":20,"numBerMax":15,"numBerMin":8,"type":0,"cityId":310100},
+        "price": {"page":1,"pageSize":20,"priceMax":9,"priceMin":7,"type":0,"cityId":310100},
+        "decorate": {"page":1,"pageSize":20,"decorate":"简单装修","type":0,"cityId":310100},
+        "feature": {"page":1,"pageSize":20,"type":0,"featureIds":["395"],"cityId":310100}
+    }
+}

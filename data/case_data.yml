@@ -1,0 +1,280 @@
+shouye_more_service:
+  -
+    - 'more_service_element'
+    - 'place_element'
+    - 'place_element_check'
+  -
+    - 'more_service_element'
+    - 'business_element'
+    - 'business_element_check'
+  -
+    - 'more_service_element'
+    - 'space_element'
+    - 'space_element_check'
+  -
+    - 'more_service_element'
+    - 'through_element'
+    - 'through_element_check'
+  -
+    - 'more_service_element'
+    - 'service_element'
+    - 'service_element_check'
+join_list_data:
+  -
+    - 'sh_all'
+    - '查询全部'
+  -
+    - 'country'
+    - '徐汇区查询'
+  -
+    - 'business'
+    - '徐家汇商圈查询'
+  -
+    - 'area'
+    - '面积查询100-300'
+  -
+    - 'num'
+    - '人数查询8-15'
+  -
+    - 'price'
+    - '价格查询800-1500'
+  -
+    - 'decorate'
+    - '装修风格查询-简单装修'
+  -
+    - 'brand'
+    - '知名品牌查询-distrii办伴'
+pro_list_data:
+  -
+    - "sh_all"
+    - "查询全部"
+  -
+    - "country"
+    - "徐汇区查询"
+  -
+    - "business"
+    - "徐家汇商圈查询"
+  -
+    - "type"
+    - "楼宇类型-写字楼"
+  -
+    - "area"
+    - "面积查询100-300"
+  -
+    - "num"
+    - "人数查询8-15"
+  -
+    - "price"
+    - "价格查询800-1500"
+  -
+    - "decorate"
+    - "装修风格查询-简单装修"
+  -
+    - "feature"
+    - "写字楼特色查询"
+off_list_data:
+  -
+    - "sh_all"
+    - "查询全部"
+  -
+    - "country"
+    - "徐汇区查询"
+  -
+    - "business"
+    - "徐家汇商圈查询"
+  -
+    - "type"
+    - "楼宇类型-写字楼"
+  -
+    - "area"
+    - "面积查询100-300"
+  -
+    - "num"
+    - "人数查询8-15"
+  -
+    - "price"
+    - "价格查询800-1500"
+  -
+    - "decorate"
+    - "装修风格查询-简单装修"
+  -
+    - "feature"
+    - "办公室特色查询"
+
+join_list_queriy:
+  -
+    - 'join_contryid_click'
+    - '{"page":1,"pageSize":20,"addressId":310104,"type":0,"featureIds":[],"cityId":310100}'
+  -
+    - 'join_businessid_click'
+    - '{"page":1,"pageSize":20,"addressId":310104,"businessId":2223,"type":0,"featureIds":[],"cityId":310100}'
+  -
+    - 'join_subway_click'
+    - ''
+  -
+    - 'join_subwayid_click'
+    - '{"page":1,"pageSize":20,"metroId":68,"type":0,"featureIds":[],"cityId":310100}'
+  -
+    - 'join_subwaystationid_click'
+    - '{"page":1,"pageSize":20,"metroId":68,"subwayId":840,"type":0,"featureIds":[],"cityId":310100}'
+  -
+    - 'join_subway_all_click'
+    - ''
+  -
+    - 'join_area_click'
+    - '{"page":1,"pageSize":20,"areaMax":500,"areaMin":300,"type":0,"featureIds":[],"cityId":310100}'
+  -
+    - 'join_area_buxian_click'
+    - ''
+  -
+    - 'join_people_click'
+    - ''
+  -
+    - 'join_nump_click'
+    - '{"page":1,"pageSize":20,"numBerMax":15,"numBerMin":8,"type":0,"featureIds":[],"cityId":310100}'
+  -
+    - 'join_nump_buxian_click'
+    - ''
+  -
+    - 'join_price_click'
+    -  '{"page":1,"pageSize":20,"priceMax":1500,"priceMin":800,"type":0,"featureIds":[],"cityId":310100}'
+  -
+    - 'join_price_buxian_click'
+    - ''
+  -
+    - 'join_fixtures_click'
+    - '{"page":1,"pageSize":20,"decorate":"简单装修","type":0,"featureIds":[],"cityId":310100}'
+  -
+    - 'join_fixtures_buxian_click'
+    - ''
+  -
+    - 'join_brand_click'
+    - '{"page":1,"pageSize":20,"type":0,"featureIds":[],"jointBrandId":2,"cityId":310100}'
+  -
+    - 'join_brand_buxian_click'
+    - ''
+  -
+    - 'join_clear_all'
+    - '{"page":1,"pageSize":20,"type":0,"featureIds":[],"cityId":310100}'
+off_list_queriy:
+  -
+    - 'off_contryid_click'
+    - '{"page":1,"pageSize":20,"addressId":310104,"type":0,"cityId":310100}'
+  -
+    - 'off_businessid_click'
+    - '{"page":1,"pageSize":20,"addressId":310104,"businessId":2223,"type":0,"cityId":310100}'
+  -
+    - 'off_subway_click'
+    - ''
+  -
+    - 'off_subwayid_click'
+    - '{"page":1,"pageSize":20,"metroId":68,"type":0,"cityId":310100}'
+  -
+    - 'off_subwaystationid_click'
+    - '{"page":1,"pageSize":20,"metroId":68,"subwayId":840,"type":0,"cityId":310100}'
+  -
+    - 'off_subway_all_click'
+    - ''
+  -
+    - 'off_type_click'
+    - '{"page":1,"pageSize":20,"type":0,"buildingType":"写字楼","cityId":310100}'
+  -
+    - 'off_type_buxian_click'
+    - ''
+  -
+    - 'off_area_click'
+    - '{"page":1,"pageSize":20,"areaMax":500,"areaMin":300,"type":0,"cityId":310100}'
+  -
+    - 'off_area_buxian_click'
+    - ''
+  -
+    - 'off_people_click'
+    - ''
+  -
+    - 'off_nump_click'
+    - '{"page":1,"pageSize":20,"numBerMax":15,"numBerMin":8,"type":0,"cityId":310100}'
+  -
+    - 'off_nump_buxian_click'
+    - ''
+  -
+    - 'off_price_click'
+    - '{"page":1,"pageSize":20,"priceMax":9,"priceMin":7,"type":0,"cityId":310100}'
+  -
+    - 'off_price_buxian_click'
+    - ''
+  -
+    - 'off_fixtures_click'
+    - '{"page":1,"pageSize":20,"decorate":"简单装修","type":0,"cityId":310100}'
+  -
+    - 'off_fixtures_buxian_click'
+    - ''
+  -
+    - 'off_feature_click'
+    - '{"page":1,"pageSize":20,"type":0,"featureIds":["395"],"cityId":310100}'
+  -
+    - 'off_feature_buxian_click'
+    - ''
+  -
+    - 'off_clear_all'
+    - '{"page":1,"pageSize":20,"type":0,"cityId":310100}'
+pro_list_queriy:
+  -
+    - 'pro_contryid_click'
+    - '{"page":1,"pageSize":20,"addressId":310104,"type":0,"cityId":310100}'
+  -
+    - 'pro_businessid_click'
+    - '{"page":1,"pageSize":20,"addressId":310104,"businessId":2223,"type":0,"cityId":310100}'
+  -
+    - 'pro_subway_click'
+    - ''
+  -
+    - 'pro_subwayid_click'
+    - '{"page":1,"pageSize":20,"metroId":68,"type":0,"cityId":310100}'
+  -
+    - 'pro_subwaystationid_click'
+    - '{"page":1,"pageSize":20,"metroId":68,"subwayId":840,"type":0,"cityId":310100}'
+  -
+    - 'pro_subway_all_click'
+    - ''
+  -
+    - 'pro_type_click'
+    - '{"page":1,"pageSize":20,"type":0,"buildingType":"写字楼","cityId":310100}'
+  -
+    - 'pro_type_buxian_click'
+    - ''
+  -
+    - 'pro_area_click'
+    - '{"page":1,"pageSize":20,"areaMax":500,"areaMin":300,"type":0,"cityId":310100}'
+  -
+    - 'pro_area_buxian_click'
+    - ''
+  -
+    - 'pro_people_click'
+    - ''
+  -
+    - 'pro_nump_click'
+    - '{"page":1,"pageSize":20,"numBerMax":15,"numBerMin":8,"type":0,"cityId":310100}'
+  -
+    - 'pro_nump_buxian_click'
+    - ''
+  -
+    - 'pro_price_click'
+    - '{"page":1,"pageSize":20,"priceMax":9,"priceMin":7,"type":0,"cityId":310100}'
+  -
+    - 'pro_price_buxian_click'
+    - ''
+  -
+    - 'pro_fixtures_click'
+    - '{"page":1,"pageSize":20,"decorate":"简单装修","type":0,"cityId":310100}'
+  -
+    - 'pro_fixtures_buxian_click'
+    - ''
+  -
+    - 'pro_feature_click'
+    - '{"page":1,"pageSize":20,"type":0,"featureIds":["395"],"cityId":310100}'
+  -
+    - 'pro_feature_buxian_click'
+    - ''
+  -
+    - 'pro_clear_all'
+    - '{"page":1,"pageSize":20,"type":0,"cityId":310100}'
